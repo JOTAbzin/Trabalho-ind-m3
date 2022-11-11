@@ -1,0 +1,83 @@
+{
+   "comida":[
+      {
+      "id": 1,
+      "nome": "X tudão",
+      "valor": "R$ 20,00",
+      "ingredientes": "Pão , 2 ovos , 3 canes , salada, calabresa , bacon , chedar"
+    },
+    {
+      "id": 2,
+      "nome": "Pizza",
+      "valor": "R$ 35,00",
+      "Tamanho": "Pequena , média , grande , familia"
+    },
+    {
+      "id": 3,
+      "name": "Dogão",
+      "valor": "R$ 15,00",
+      "ingredientes": "pão , salcicha ou linguiça , milho , molho , ovo de codorna , ervilhas"
+    },
+    {
+      "id": 4,
+      "name": "fritas",
+      "valor": "R$ 15,00",
+      "Tamanho": "Pequena , média , grande , familia"
+    }
+ ],
+ 
+ "bebidas":[
+  
+    {
+    "id": 1,
+    "nome":"Vodka",
+    "valor":"R$ 20,00"
+  },
+  {
+    "id": 2,
+    "nome": "Tekila",
+    "valor": "R$ 35,00"
+  },
+  {
+    "id": 3,
+    "name": "Wisky",
+    "valor": "R$ 35,00"
+   
+  },
+  {
+    "id": 4,
+    "name": "cerveja",
+    "valor": "R$ 15,00"
+  }
+ ],
+
+
+
+
+  "Refri": [
+    
+      {
+      "id": 1,
+      "nome": "Guarana Antartica",
+      "valor": "R$ 10,00"
+    },
+    {
+      "id": 2,
+      "nome": "Coca-cola",
+      "valor": "R$ 10,00"
+    },
+    {
+      "id": 3,
+      "name": "Pepsi",
+      "valor": "R$ 5,00"
+    
+    },
+    {
+      "id": 4,
+      "name": "Convensao",
+      "valor": "R$ 5,00"
+    }
+  ]
+}
+
+
