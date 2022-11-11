@@ -1,6 +1,5 @@
 {
   "comida":[
-    [
       {
       "id": 1,
       "nome": "X tudão",
@@ -28,7 +27,6 @@
 ],
 {
 "bebidas": [
-  [
     {
     "id": 1,
     "nome": "Vodka",
@@ -53,7 +51,6 @@
 ],
 {
   "Refri": [
-    [
       {
       "id": 1,
       "nome": "Guarana Antartica",
