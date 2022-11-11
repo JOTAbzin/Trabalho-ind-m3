@@ -1,4 +1,5 @@
-[
+{
+    "comidas":[
     {
       "id": 1,
       "nome": "X tudão",
@@ -18,3 +19,4 @@
       "ingredientes": "pão , salcicha ou linguiça , milho , molho , ovo de codorna , ervilhas"
     }
 ]
+}
